@@ -1,1 +1,1 @@
-# LectureNotes SignalAnalysisAndCommunication
+# Lecture Notes - Signal Analysis and Communication
