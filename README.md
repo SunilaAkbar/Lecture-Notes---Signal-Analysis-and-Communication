@@ -1,1 +1,1 @@
-# Teaching-Portfolio
+# Lecture Notes - Signal Analysis and Communications
